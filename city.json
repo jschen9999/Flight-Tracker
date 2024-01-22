@@ -1,0 +1,474 @@
+[
+  {
+    "AirportID": "TPE",
+    "AirportName": {
+      "Zh_tw": "臺北桃園國際機場",
+      "En": "Taoyuan"
+    },
+    "AirportIATA": "TPE",
+    "AirportICAO": "RCTP",
+    "AirportPosition": {
+      "PositionLat": 25.0770119995,
+      "PositionLon": 121.231976
+    },
+    "AirportCityName": {},
+    "AirportAdrress": "桃園市大園區航站南路9號",
+    "AirportPhone": "03-2735081",
+    "AirportNationality": "TW",
+    "AuthorityID": "CAA",
+    "UpdateTime": "2020-01-14T08:29:50+08:00",
+    "VersionID": 111
+  },
+  {
+    "AirportID": "LUX",
+    "AirportName": {
+      "Zh_tw": "盧森堡芬德爾國際機場",
+      "En": "Luxembourg / Luxembourg"
+    },
+    "AirportIATA": "LUX",
+    "AirportICAO": "ELLX",
+    "AirportPosition": {},
+    "AirportCityName": {},
+    "AirportNationality": "LU",
+    "AuthorityID": "CAA",
+    "UpdateTime": "2020-01-14T08:29:50+08:00",
+    "VersionID": 111
+  },
+  {
+    "AirportID": "TNE",
+    "AirportName": {
+      "Zh_tw": "種子島",
+      "En": "Tanegashima"
+    },
+    "AirportIATA": "TNE",
+    "AirportICAO": "RJFG",
+    "AirportPosition": {},
+    "AirportCityName": {},
+    "AirportNationality": "JP",
+    "AuthorityID": "CAA",
+    "UpdateTime": "2020-01-14T08:29:50+08:00",
+    "VersionID": 111
+  },
+  {
+    "AirportID": "TAK",
+    "AirportName": {
+      "Zh_tw": "高松",
+      "En": "TAKAMATSU"
+    },
+    "AirportIATA": "TAK",
+    "AirportICAO": "RJOT",
+    "AirportPosition": {},
+    "AirportCityName": {},
+    "AirportNationality": "JP",
+    "AuthorityID": "CAA",
+    "UpdateTime": "2020-01-14T08:29:50+08:00",
+    "VersionID": 111
+  },
+  {
+    "AirportID": "CJJ",
+    "AirportName": {},
+    "AirportIATA": "CJJ",
+    "AirportICAO": "RKTU",
+    "AirportPosition": {},
+    "AirportCityName": {},
+    "AirportNationality": "KR",
+    "AuthorityID": "CAA",
+    "UpdateTime": "2020-01-14T08:29:50+08:00",
+    "VersionID": 111
+  },
+  {
+    "AirportID": "KMQ",
+    "AirportName": {
+      "Zh_tw": "小松機場",
+      "En": "KOMATSU"
+    },
+    "AirportIATA": "KMQ",
+    "AirportICAO": "RJNK",
+    "AirportPosition": {},
+    "AirportCityName": {},
+    "AirportNationality": "JP",
+    "AuthorityID": "CAA",
+    "UpdateTime": "2020-01-14T08:29:50+08:00",
+    "VersionID": 111
+  },
+  {
+    "AirportID": "CBO",
+    "AirportName": {
+      "Zh_tw": "宿霧",
+      "En": "Awang"
+    },
+    "AirportIATA": "CBO",
+    "AirportICAO": "RPMC",
+    "AirportPosition": {},
+    "AirportCityName": {},
+    "AirportNationality": "PH",
+    "AuthorityID": "CAA",
+    "UpdateTime": "2020-01-14T08:29:50+08:00",
+    "VersionID": 111
+  },
+  {
+    "AirportID": "ITM",
+    "AirportName": {
+      "Zh_tw": "大阪伊丹機場",
+      "En": "Itami Intl Airport"
+    },
+    "AirportIATA": "ITM",
+    "AirportICAO": "RJOO",
+    "AirportPosition": {},
+    "AirportCityName": {
+      "Zh_tw": "大阪",
+      "En": "Osaka"
+    },
+    "AirportNationality": "JP",
+    "AuthorityID": "CAA",
+    "UpdateTime": "2020-01-14T08:29:50+08:00",
+    "VersionID": 111
+  },
+  {
+    "AirportID": "KMI",
+    "AirportName": {
+      "Zh_tw": "宮崎機場",
+      "En": "MIYAZAKI"
+    },
+    "AirportIATA": "KMI",
+    "AirportICAO": "RJFM",
+    "AirportPosition": {},
+    "AirportCityName": {},
+    "AirportNationality": "JP",
+    "AuthorityID": "CAA",
+    "UpdateTime": "2020-01-14T08:29:50+08:00",
+    "VersionID": 111
+  },
+  {
+    "AirportID": "PDX",
+    "AirportName": {
+      "Zh_tw": "波特蘭國際機場",
+      "En": "PORTLAND"
+    },
+    "AirportIATA": "PDX",
+    "AirportICAO": "KPDX",
+    "AirportPosition": {},
+    "AirportCityName": {},
+    "AirportNationality": "US",
+    "AuthorityID": "CAA",
+    "UpdateTime": "2020-01-14T08:29:50+08:00",
+    "VersionID": 111
+  },
+  {
+    "AirportID": "ASY",
+    "AirportName": {
+      "Zh_tw": "敘米亞",
+      "En": "SHEMYA"
+    },
+    "AirportIATA": "ASY",
+    "AirportICAO": "PASY",
+    "AirportPosition": {},
+    "AirportCityName": {},
+    "AirportNationality": "US",
+    "AuthorityID": "CAA",
+    "UpdateTime": "2020-01-14T08:29:50+08:00",
+    "VersionID": 111
+  },
+  {
+    "AirportID": "VIE",
+    "AirportName": {
+      "Zh_tw": "維也納國際機場",
+      "En": "WIEN-SCHWECHAT"
+    },
+    "AirportIATA": "VIE",
+    "AirportICAO": "LOWW",
+    "AirportPosition": {},
+    "AirportCityName": {},
+    "AirportNationality": "AT",
+    "AuthorityID": "CAA",
+    "UpdateTime": "2020-01-14T08:29:50+08:00",
+    "VersionID": 111
+  },
+  {
+    "AirportID": "LBU",
+    "AirportName": {
+      "Zh_tw": "納閩機場",
+      "En": "Labuan"
+    },
+    "AirportIATA": "LBU",
+    "AirportICAO": "WBKL",
+    "AirportPosition": {},
+    "AirportCityName": {},
+    "AirportNationality": "MY",
+    "AuthorityID": "CAA",
+    "UpdateTime": "2020-01-14T08:29:50+08:00",
+    "VersionID": 111
+  },
+  {
+    "AirportID": "UUS",
+    "AirportName": {
+      "Zh_tw": "庫頁島",
+      "En": "YUZHNO-SAKHALINSK/KHOMUTOVO"
+    },
+    "AirportIATA": "UUS",
+    "AirportICAO": "UHSS",
+    "AirportPosition": {},
+    "AirportCityName": {},
+    "AirportNationality": "RU",
+    "AuthorityID": "CAA",
+    "UpdateTime": "2020-01-14T08:29:50+08:00",
+    "VersionID": 111
+  },
+  {
+    "AirportID": "HIO",
+    "AirportName": {
+      "Zh_tw": "波特蘭(1)",
+      "En": "Portland"
+    },
+    "AirportIATA": "HIO",
+    "AirportICAO": "KHIO",
+    "AirportPosition": {},
+    "AirportCityName": {},
+    "AirportNationality": "US",
+    "AuthorityID": "CAA",
+    "UpdateTime": "2020-01-14T08:29:50+08:00",
+    "VersionID": 111
+  },
+  {
+    "AirportID": "CYI",
+    "AirportName": {
+      "Zh_tw": "嘉義機場",
+      "En": "Chaiyi Airport"
+    },
+    "AirportIATA": "CYI",
+    "AirportICAO": "RCKU",
+    "AirportPosition": {
+      "PositionLat": 23.4547039995,
+      "PositionLon": 120.403835
+    },
+    "AirportCityName": {
+      "Zh_tw": "嘉義",
+      "En": "Chaiyi"
+    },
+    "AirportAdrress": "嘉義縣水上鄉榮典路1號",
+    "AirportPhone": "(05)286-7886#0或311",
+    "AirportNationality": "TW",
+    "AuthorityID": "CAA",
+    "UpdateTime": "2020-01-14T08:29:50+08:00",
+    "VersionID": 111
+  },
+  {
+    "AirportID": "AZA",
+    "AirportName": {
+      "Zh_tw": "PHOENIX",
+      "En": "Phoenix-Mesa Gateway Airport"
+    },
+    "AirportIATA": "AZA",
+    "AirportICAO": "KIWA",
+    "AirportPosition": {},
+    "AirportCityName": {},
+    "AirportNationality": "US",
+    "AuthorityID": "CAA",
+    "UpdateTime": "2020-01-14T08:29:50+08:00",
+    "VersionID": 111
+  },
+  {
+    "AirportID": "DHA",
+    "AirportName": {
+      "Zh_tw": "達蘭",
+      "En": "Dhahran"
+    },
+    "AirportIATA": "DHA",
+    "AirportICAO": "OEDR",
+    "AirportPosition": {},
+    "AirportCityName": {},
+    "AirportNationality": "SA",
+    "AuthorityID": "CAA",
+    "UpdateTime": "2020-01-14T08:29:50+08:00",
+    "VersionID": 111
+  },
+  {
+    "AirportID": "TAS",
+    "AirportName": {
+      "Zh_tw": "塔什干國際機場",
+      "En": "Tashkent International Airport"
+    },
+    "AirportIATA": "TAS",
+    "AirportICAO": "UTTT",
+    "AirportPosition": {},
+    "AirportCityName": {},
+    "AirportNationality": "TJ",
+    "AuthorityID": "CAA",
+    "UpdateTime": "2020-01-14T08:29:50+08:00",
+    "VersionID": 111
+  },
+  {
+    "AirportID": "KRW",
+    "AirportName": {
+      "Zh_tw": "土庫曼",
+      "En": "Turkmenbashi"
+    },
+    "AirportIATA": "KRW",
+    "AirportICAO": "UTAK",
+    "AirportPosition": {},
+    "AirportCityName": {
+      "Zh_tw": "土庫曼",
+      "En": "Turkmenbashi"
+    },
+    "AirportNationality": "TM",
+    "AuthorityID": "CAA",
+    "UpdateTime": "2020-01-14T08:29:50+08:00",
+    "VersionID": 111
+  },
+  {
+    "AirportID": "SAN",
+    "AirportName": {
+      "Zh_tw": "聖地牙哥國際機場",
+      "En": "San Diego"
+    },
+    "AirportIATA": "SAN",
+    "AirportICAO": "KSAN",
+    "AirportPosition": {},
+    "AirportCityName": {},
+    "AirportNationality": "US",
+    "AuthorityID": "CAA",
+    "UpdateTime": "2020-01-14T08:29:50+08:00",
+    "VersionID": 111
+  },
+  {
+    "AirportID": "AKL",
+    "AirportName": {
+      "Zh_tw": "奧克蘭國際機場",
+      "En": "Auckland Airport"
+    },
+    "AirportIATA": "AKL",
+    "AirportICAO": "NZAA",
+    "AirportPosition": {},
+    "AirportCityName": {
+      "Zh_tw": "奧克蘭",
+      "En": "Auckland"
+    },
+    "AirportNationality": "NZ",
+    "AuthorityID": "CAA",
+    "UpdateTime": "2020-01-14T08:29:50+08:00",
+    "VersionID": 111
+  },
+  {
+    "AirportID": "DVO",
+    "AirportName": {
+      "Zh_tw": "達沃機場",
+      "En": "OSA"
+    },
+    "AirportIATA": "DVO",
+    "AirportICAO": "RPMD",
+    "AirportPosition": {},
+    "AirportCityName": {},
+    "AirportNationality": "PH",
+    "AuthorityID": "CAA",
+    "UpdateTime": "2020-01-14T08:29:50+08:00",
+    "VersionID": 111
+  },
+  {
+    "AirportID": "YGJ",
+    "AirportName": {
+      "Zh_tw": "米子機場"
+    },
+    "AirportIATA": "YGJ",
+    "AirportICAO": "RJOH",
+    "AirportPosition": {},
+    "AirportCityName": {},
+    "AirportNationality": "JP",
+    "AuthorityID": "CAA",
+    "UpdateTime": "2020-01-14T08:29:50+08:00",
+    "VersionID": 111
+  },
+  {
+    "AirportID": "KOW",
+    "AirportName": {
+      "Zh_tw": "贛州",
+      "En": "Ganzhou"
+    },
+    "AirportIATA": "KOW",
+    "AirportICAO": "ZSGZ",
+    "AirportPosition": {},
+    "AirportCityName": {},
+    "AirportNationality": "CN",
+    "AuthorityID": "CAA",
+    "UpdateTime": "2020-01-14T08:29:50+08:00",
+    "VersionID": 111
+  },
+  {
+    "AirportID": "PER",
+    "AirportName": {
+      "Zh_tw": "伯斯國際機場",
+      "En": "Perth Intl Airport"
+    },
+    "AirportIATA": "PER",
+    "AirportICAO": "YPPH",
+    "AirportPosition": {},
+    "AirportCityName": {
+      "Zh_tw": "伯斯",
+      "En": "Perth"
+    },
+    "AirportNationality": "AU",
+    "AuthorityID": "CAA",
+    "UpdateTime": "2020-01-14T08:29:50+08:00",
+    "VersionID": 111
+  },
+  {
+    "AirportID": "",
+    "AirportName": {
+      "Zh_tw": "臺中翔平"
+    },
+    "AirportICAO": "RCSP",
+    "AirportPosition": {},
+    "AirportCityName": {},
+    "AirportNationality": "TW",
+    "AuthorityID": "CAA",
+    "UpdateTime": "2020-01-14T08:29:50+08:00",
+    "VersionID": 111
+  },
+  {
+    "AirportID": "BIK",
+    "AirportName": {
+      "Zh_tw": "WABB",
+      "En": "Frans Kaisiepo Airport"
+    },
+    "AirportIATA": "BIK",
+    "AirportICAO": "WABB",
+    "AirportPosition": {},
+    "AirportCityName": {},
+    "AirportNationality": "ID",
+    "AuthorityID": "CAA",
+    "UpdateTime": "2020-01-14T08:29:50+08:00",
+    "VersionID": 111
+  },
+  {
+    "AirportID": "FAE",
+    "AirportName": {
+      "Zh_tw": "法羅群島機場",
+      "En": "Faroe Islands Airport"
+    },
+    "AirportIATA": "FAE",
+    "AirportICAO": "EKVG",
+    "AirportPosition": {},
+    "AirportCityName": {
+      "Zh_tw": "法羅群島",
+      "En": "Faroe Islands"
+    },
+    "AirportNationality": "DK",
+    "AuthorityID": "CAA",
+    "UpdateTime": "2020-01-14T08:29:50+08:00",
+    "VersionID": 111
+  },
+  {
+    "AirportID": "GDX",
+    "AirportName": {
+      "Zh_tw": "索科爾機場",
+      "En": "Sokol Airport"
+    },
+    "AirportIATA": "GDX",
+    "AirportICAO": "UHMM",
+    "AirportPosition": {},
+    "AirportCityName": {},
+    "AirportNationality": "RU",
+    "AuthorityID": "CAA",
+    "UpdateTime": "2020-01-14T08:29:50+08:00",
+    "VersionID": 111
+  }
+]
